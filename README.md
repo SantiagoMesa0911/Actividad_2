@@ -51,7 +51,7 @@ Evidencia EA2: Procesamiento de datos del Titanic en Databricks CE usando Spark 
 - `Actividad_2` - Notebook con evidencia completa
 
 ## 👤 Autor
-TATIANA OROZCO ALZATE
+TATIANA OROZCO ALZATE -
 SANTIAGO MESA PARRA
 ---
 *Evidencia de aprendizaje - Unidad 3*
