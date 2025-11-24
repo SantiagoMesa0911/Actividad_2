@@ -21,14 +21,6 @@ Desplegar un conjunto de datos en una infraestructura virtual en Databricks, dis
 - **Spark SQL**
 - **Jupyter Notebook**
 
-## 📁 Estructura del Repositorio
-## 🎯 **Versión Simplificada (si prefieres algo más corto):**
-
-
-# Actividad 2 - Procesamiento Datos Cloud
-
-## 📋 Descripción
-Evidencia EA2: Procesamiento de datos del Titanic en Databricks CE usando Spark y SQL.
 
 ## 🎯 Objetivos Cumplidos
 ✅ Diseño de esquema de datos  
@@ -42,10 +34,6 @@ Evidencia EA2: Procesamiento de datos del Titanic en Databricks CE usando Spark 
 - **Registros**: 891 pasajeros
 - **Columnas**: 12 características
 
-## 🛠️ Tecnologías
-- Databricks Community Edition
-- Apache Spark 3.5.0
-- Python 3.11 + PySpark
 
 ## 📁 Archivos
 - `Actividad_2` - Notebook con evidencia completa
